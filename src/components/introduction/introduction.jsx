@@ -11,7 +11,7 @@ class IntroductionComponent extends Component {
             <p className="introduction-text">
               Loves family, outdoors, Javascript, and all things technology.
               Correctly pronounces 'GIF' with a soft 'G'.
-              Growing full-stack developer, currently living in Atlanta, Geogria. <br/>
+              Growing full-stack developer, currently living in Atlanta, Georgia. <br/>
               Go Dawgs!!!
             </p>
           </div>

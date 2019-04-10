@@ -1,5 +1,5 @@
 /*
-  Color palette: http://www.colourlovers.com/palette/809495/sure
+  Color palette: https://www.colourlovers.com/palette/2448983/Cookie_Monster_Swag
  */
 
 body {
@@ -43,7 +43,7 @@ p {
 }
 
 .section.dark {
-  background: #16151C;
+  background: #0A052D;
 }
 
 .section-container.header-component {
@@ -55,7 +55,7 @@ p {
 }
 
 .section.colored {
-  background: #D8AB94;
+  background: #B06A46;
   /* background: #EBEBEB; */
 }
 
@@ -69,7 +69,8 @@ p.headline {
 }
 
 .header-section {
-  background: #16151C;
+  background: #0A052D;
+  /* background: #16151C; */
 }
 
 p.text-justify {
