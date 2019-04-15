@@ -25,7 +25,7 @@ class FooterComponent extends Component {
           </a>
         </div>
         <FlatButton labelStyle={{
-          "color": "rgba(0, 0, 0, 0.65)"
+          "color": "white"
         }} label="Back to top" onClick={this.onScrollToTop}/>
       </div>
     );

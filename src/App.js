@@ -61,7 +61,7 @@ class App extends Component {
               <ContactComponent></ContactComponent>
             </div>
           </div> */}
-          <div className="section colored">
+          <div className="section header-section">
             <div className="section-container footer-component">
               <FooterComponent></FooterComponent>
             </div>
