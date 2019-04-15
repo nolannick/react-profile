@@ -9,10 +9,8 @@ import HeaderComponent from './components/header/header';
 import IntroductionComponent from './components/introduction/introduction';
 import TimelineComponent from './components/timeline/timeline';
 import ProgrammingComponent from './components/programming/programming';
-import AgileQuoteComponent from './components/agile-quote/agile-quote';
-import DesignComponent from './components/design/design';
+import PMComponent from './components/project-mgmt/project-mgmt';
 import CodeGithubComponent from './components/code-github/code-github';
-import ContactComponent from './components/contact/contact';
 import FooterComponent from './components/footer/footer';
 
 class App extends Component {
@@ -44,7 +42,7 @@ class App extends Component {
           </div>
           <div className="section">
             <div className="section-container">
-              <DesignComponent></DesignComponent>
+              <PMComponent></PMComponent>
             </div>
           </div>
 
