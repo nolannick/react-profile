@@ -9,7 +9,7 @@
 This portfolio is made with [React](https://github.com/facebook/react), [Material UI](https://github.com/callemall/material-ui) and support from other developers.
 Feel free to fork and have fun with it. 
 
-Big thanks to https://github.com/salomonelli/personal-portfolio for the base of the code and allowing others to pull and learn from it!
+Big thanks to Sara Steiert for the base of the profile and allowing others to pull and learn from it!
 
 ## Installation
 
