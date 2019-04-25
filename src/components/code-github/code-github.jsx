@@ -24,7 +24,7 @@ class CodeGithubComponent extends Component {
                       src="res/mipmap-hdpi/ic_launcher.png"/>}
                   />
                 <CardText>
-                        This application is made with React and Material UI. Check out the code on Github.
+                        This profile you are viewing is made with React and Material UI. Check out the code on Github if you would like.
                     </CardText>
                     <CardActions>
                         <FlatButton label="View on github" href="https://github.com/nolannick/react-profile" target="_blank"/>
@@ -37,7 +37,7 @@ class CodeGithubComponent extends Component {
                     avatar="images/rolypolyimage.jpg"
                   />
                 <CardText>
-                        This is intended to be a mobile-only app. It is a child's task management application that allows kids to accrue 'Doodle Bucks' for doing chores, then can cash in their Doodle Bucks for rewards. Similar to a star chart. My kids LOVE it. <br/><br/>*When opening, it may take 10 seconds or so to spin up the idle server.
+                        This is intended to be a mobile-only app. It is a child's task management application that allows kids to accrue 'Doodle Bucks' for doing chores, then can cash in their Doodle Bucks for rewards. Similar to a star chart. My kids LOVE it. <br/><br/>Username: DoodleBugDemo@gmail.com<br/>Password: Demo
                     </CardText>
                     <CardActions>
                         <FlatButton label="Doodle Bug Quest" href="https://doodle-bug-quest.herokuapp.com/" target="_blank"/>
