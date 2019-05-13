@@ -23,7 +23,7 @@ class BrowserDetectComponent extends Component {
     const isIE = /*@cc_on!@*/false || !!document.documentMode;
     // Edge 20+
     const isEdge = !isIE && !!window.StyleMedia;
-    if(isIE || isEdge) this.setState({open: true});
+    // if(isIE || isEdge) this.setState({open: true});
   }
 
     render() {
