@@ -38,12 +38,12 @@ class BrowserDetectComponent extends Component {
         return (
           <div className="browser-detect">
               <Dialog
-                title="I hate your browser."
+                title="Browser issue detected"
                 actions={actions}
                 modal={true}
                 open={this.state.open}
               >
-               Internet Explorer and Edge are not supported.
+               This site uses React libraries that do not jive well with Internet Explorer and Edge. Please try it on Chrome or Firefox if you are able.
               </Dialog>
           </div>
         );

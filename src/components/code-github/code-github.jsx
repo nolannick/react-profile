@@ -37,7 +37,7 @@ class CodeGithubComponent extends Component {
                     avatar="images/rolypolyimage.jpg"
                   />
                 <CardText>
-                        This is intended to be a mobile-only app. It is a child's task management application that allows kids to accrue 'Doodle Bucks' for doing chores, then can cash in their Doodle Bucks for rewards. Similar to a star chart. My kids LOVE it. <br/><br/>Username: DoodleBugDemo@gmail.com<br/>Password: Demo
+                        This is intended to be a mobile-only app. It is a child's task management application that allows kids to accrue 'Doodle Bucks' for doing chores, then can cash in their Doodle Bucks for rewards. Similar to a star chart. My kids LOVE it. <br/><br/>Username: DoodleBugDemo@gmail.com<br/>Password: demo
                     </CardText>
                     <CardActions>
                         <FlatButton label="Doodle Bug Quest" href="https://doodle-bug-quest.herokuapp.com/" target="_blank"/>
